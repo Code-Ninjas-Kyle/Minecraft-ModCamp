@@ -6,7 +6,7 @@ Drop off
 Introductions, getting settled and talking about the activites for today
 
 ### 1:00pm - 2:00pm
-Making ALL necessary textures for today (Ingot, tool, block, and armor if they finished early)\
+Making ALL necessary textures for today (Ingot, tool, block, ore, and armor if they finished early)
 
 ### 2:00pm - 2:30pm
 Creating GUI and the Block
